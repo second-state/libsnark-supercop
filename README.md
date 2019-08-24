@@ -11,7 +11,7 @@ determine  the compilation options for each specific file
 in the target machine. 
 
 If the ADSNARK example fails to build out of the box, 
-then it may be a good idea to execute ./do in this folder 
+then it may be a good idea to execute ./do\_enable\_pic in this folder 
 before trying anything else.
 
 Supercop is available from:
